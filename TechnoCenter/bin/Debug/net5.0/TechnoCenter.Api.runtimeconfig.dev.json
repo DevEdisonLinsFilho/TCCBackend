@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\elins\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\elins\\.nuget\\packages"
-    ]
-  }
-}
